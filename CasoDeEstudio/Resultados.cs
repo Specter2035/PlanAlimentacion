@@ -11,14 +11,21 @@ namespace CasoDeEstudio
 {
     public partial class Resultados : Form
     {
+
         public Resultados()
         {
             InitializeComponent();
+            
         }
 
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void Resultados_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
