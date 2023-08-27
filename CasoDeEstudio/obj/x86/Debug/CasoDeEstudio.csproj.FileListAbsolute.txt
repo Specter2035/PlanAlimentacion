@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 1\CasoDeEstudio\bin\Debug\CasoDeEstudio.exe
+C:\Users\Usuario\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 1\CasoDeEstudio\bin\Debug\CasoDeEstudio.pdb
+C:\Users\Usuario\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 1\CasoDeEstudio\obj\x86\Debug\CasoDeEstudio.Form1.resources
+C:\Users\Usuario\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 1\CasoDeEstudio\obj\x86\Debug\CasoDeEstudio.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 1\CasoDeEstudio\obj\x86\Debug\CasoDeEstudio.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 1\CasoDeEstudio\obj\x86\Debug\CasoDeEstudio.exe
+C:\Users\Usuario\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 1\CasoDeEstudio\obj\x86\Debug\CasoDeEstudio.pdb
+C:\Users\Usuario\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 1\CasoDeEstudio\obj\x86\Debug\CasoDeEstudio.Resultados.resources
+C:\Users\Usuario\Desktop\TEC\3er Semestre\Estructura de Datos\Unidad 1\CasoDeEstudio\obj\x86\Debug\CasoDeEstudio.csprojResolveAssemblyReference.cache
